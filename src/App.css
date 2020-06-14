@@ -12,8 +12,14 @@
 }
 .links:link {
    text-decoration: none;
-
 }
+.book-card {
+  padding: 10px;
+  margin: 10px;
+  
+}
+
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {

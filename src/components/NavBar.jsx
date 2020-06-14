@@ -9,6 +9,7 @@ const NavBar = () => {
     <Nav className="mr-auto">
       <Link to='/main' className='links'>Current</Link>
       <Link to='/timer' className='links'>Timer</Link>
+      <Link to='/bookstore' className='links'>Bookstore</Link>
      
     </Nav>
     <Form inline>
